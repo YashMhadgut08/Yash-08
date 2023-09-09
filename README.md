@@ -1,2 +1,3 @@
-# Yash-08
+# Yash08-Demo
 This is my first Git Repository
+Author-Yash M.
